@@ -328,10 +328,8 @@ Natural Language Processing memungkinkan komputer memahami bahasa manusia dengan
 
 ## 👨‍💻 Author
 
-**[Nama Anda]**
-- NIM: [NIM Anda]
+**Muhammad Reza Fadillah**
 - Mata Kuliah: Kecerdasan Buatan
-- Dosen: [Nama Dosen]
 
 ---
 
@@ -356,5 +354,6 @@ Sistem ini adalah prototype untuk tujuan pembelajaran. Untuk implementasi produc
 - Compliance dengan regulasi privasi data
 
 ---
+
 
 **🛡️ Stay Safe from Scams! 🛡️**
